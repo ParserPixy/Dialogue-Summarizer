@@ -15,10 +15,10 @@
 
 ### STEPS:
 
-Clone the repository
+Clone the repository to your local machine
 
 ```bash
-https://github.com/ParserPixy/Text-Summarizer
+git clone https://github.com/ParserPixy/Text-Summarizer
 ```
 01- Create a conda environment after opening the repository
 
