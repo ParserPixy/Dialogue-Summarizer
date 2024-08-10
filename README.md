@@ -1,4 +1,5 @@
 # End-to-End Dialogue-Summarizer
+This project utilizes the Summarization capabilities of the pretrained [google/pegasus-cnn_dailymail](https://arxiv.org/abs/1912.08777) Transformer model to summarize the conversations on the [Samsum dataset](https://arxiv.org/abs/1911.12237v2)
 
 ## Workflows
 
